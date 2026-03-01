@@ -20,7 +20,7 @@ A full-stack Hospital Management System built using:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/Hospital-Management-System.git
+git clone https://github.com/karan-245/Hospital-Management-System.git
 
 2. Install dependencies:
 pip install -r requirements.txt
